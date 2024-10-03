@@ -11,7 +11,7 @@
 					<h1>Latest Episodes</h1>
 					<ul class="breadcumb">
 						<li class="active"><a href="#">Home</a></li>
-						<li> <span class="ion-ios-arrow-right"></span> Latest Epsidoes</li>
+						<li> <span class="ion-ios-arrow-right"></span> Latest Epsidoes salhi</li>
 					</ul>
 				</div>
 			</div>
